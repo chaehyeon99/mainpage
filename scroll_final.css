@@ -1,0 +1,8 @@
+
+.section {
+    color: white;
+}
+.s0 {
+    background-image : url("이미지01.png");
+    background-size : cover ;
+}
